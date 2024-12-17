@@ -1,2 +1,1 @@
-pip install torch transformers datasets trl peft
-pip install huggingface_hub
+pip install torch transformers datasets trl peft huggingface_hub
